@@ -1,0 +1,2 @@
+<!-- favicon -->
+<link itemprop="image" rel="shortcut icon" type="image/png" href="apple-touch-icon.png" />
